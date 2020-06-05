@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot4
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Develop
+Implementation-Vendor-Id: SpringBoot4
+Build-Jdk: 1.8.0_101
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBoot4
+Created-By: Maven Integration for Eclipse
+
